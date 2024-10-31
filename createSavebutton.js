@@ -11,5 +11,6 @@ function increment(){
 //Create a function, save(), which logs out the count when it is called
 function save(){
     console.log(count)   
+    console.log("Hellllllo")
 }
 
